@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062974112432",
+    "firebase_url": "https://realtimedb-and-listview.firebaseio.com",
+    "project_id": "realtimedb-and-listview",
+    "storage_bucket": "realtimedb-and-listview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062974112432:android:a54e9572be8bf6e823b175",
+        "android_client_info": {
+          "package_name": "com.example.realtimedblistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062974112432-h0j52798f3cblqn6ekj5l85oeda374cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimedblistview",
+            "certificate_hash": "8aacbf7e0de68130847d44a1e81aa3db2dba96d9"
+          }
+        },
+        {
+          "client_id": "1062974112432-4lf560doc45i5nr6pjm7knm15te82u5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAItn8fQp_LGeiVQJTZjVf38LaSAzSwY9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062974112432-4lf560doc45i5nr6pjm7knm15te82u5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
